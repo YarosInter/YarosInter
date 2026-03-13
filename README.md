@@ -4,7 +4,6 @@
 
 [![Website](https://img.shields.io/badge/fluxionconsulting.io-000000?style=for-the-badge&logo=globe&logoColor=white)](https://fluxionconsulting.io)
 [![Instagram](https://img.shields.io/badge/@fluxion.ai__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fluxion.ai_)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50230446974)
 
 ---
 
