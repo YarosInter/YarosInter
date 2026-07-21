@@ -1,64 +1,52 @@
 # Hi, I'm Yaros 👋
 
-> Builder of AI systems that actually work. Founder of **[Fluxion AI](https://fluxionconsulting.io)** · ML & Time Series Specialist
+**AI Solutions Engineer** — I design and build production AI systems: agents, RAG pipelines, and workflow automation that run real business operations, not demos.
 
-[![Website](https://img.shields.io/badge/fluxionconsulting.io-000000?style=for-the-badge&logo=globe&logoColor=white)](https://fluxionconsulting.io)
-[![Instagram](https://img.shields.io/badge/@fluxion.ai__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fluxion.ai_)
-
----
-
-## 🚀 What I'm Building
-
-### 🤖 [Fluxion AI](https://fluxionconsulting.io) — AI Agency (B2B)
-Full-stack AI systems for businesses that connect ads to autonomous agents. From first message to hot deal — fully automated.
-
-- ⚡ Instant lead engagement from Meta Ads (Facebook/Instagram/WhatsApp)
-- 🧠 AI agents that qualify, nurture, and book appointments
-- 📍 Send images, locations, and context-aware responses
-- 📊 Real-time dashboards built from live interaction data
-- 🔗 CRM integration + omnichannel live chat handoff
+Currently building **Althoris**, a multi-tenant AI SaaS platform for WhatsApp-first customer engagement.
 
 ---
 
-### ⚙️ [FluxionOS](#) — AI SaaS Platform `🚧 In Development`
-> The operating system for autonomous AI systems — without the complexity.
+## 🤖 What I've Built
 
-Building the platform I wish existed when I started. FluxionOS lets anyone deploy production-ready AI systems with:
+### Althoris — Multi-Tenant AI SaaS Platform `🚧 In development`
+A platform for deploying and managing AI agents at scale — built solo, end to end.
+- 🧩 Visual agent builder connecting AI agents to WhatsApp numbers
+- 💬 Live chat with AI ↔ human handoff and structured data capture from conversation (CRM-style)
+- 📊 Custom drag-and-drop analytics dashboards
+- 💳 Usage-based billing (Stripe) with seat management and plan enforcement
+- 🏗️ Multi-tenant architecture: Next.js, TypeScript, Supabase (RLS), Fly.io agent runtime, multi-provider LLM routing
 
-- 🧩 Visual builder for complex multi-agent workflows
-- 🗄️ Built-in database, CRM, and lead management (no Supabase/Airtable setup)
-- 📬 Native WhatsApp, Instagram, Messenger integrations out of the box
-- 📈 Analytics and dashboards pre-configured
-- 🚫 No n8n node-by-node configuration — just logic, visually
-
-**The goal:** Make the same power behind enterprise AI automation accessible to any business owner.
+### Production AI Agent Systems — Client Work (2024–2026)
+Designed and deployed AI agent pipelines for 4 B2B clients in production.
+- ⚡ Automated lead engagement from Meta Ads through WhatsApp — qualification, appointment booking, CRM assignment, end-to-end
+- 🧠 RAG pipelines with vector embeddings for knowledge-grounded, context-aware responses
+- 🗄️ Redis-backed conversation memory for multi-turn agentic context
+- 🔗 n8n workflow automation integrated with Meta Graph API, WhatsApp Business API, Airtable, Supabase, and custom REST APIs
+- 📈 Real-time analytics dashboards built from live interaction data
 
 ---
 
 ## 🧠 ML & Time Series Research
 
-My GitHub repos cover applied deep learning for financial forecasting:
+Applied deep learning for financial forecasting — six open-source models with full pipelines covering data ingestion, feature engineering, training, evaluation, and visualization.
 
-| Model | Description |
-|-------|-------------|
-| 🔷 Conv1D Neural Network | 1D Convolutional NN for price movement forecasting |
-| 🔶 LSTM Neural Network | Long Short-Term Memory for FOREX prediction |
-| 🔹 Dense Neural Network | Deep learning baseline for time series |
-| 🔸 KNeighbors Regressor | KNN applied to financial data |
-| 🔺 Linear Regression | Classical regression for trend modeling |
-| 🟣 Support Vector Machine | SVM for FOREX price forecasting |
+| Model | Focus |
+|---|---|
+| LSTM Neural Network | FOREX price prediction |
+| Conv1D Neural Network | Price movement forecasting |
+| Dense Neural Network | Time series baseline |
+| Support Vector Machine | FOREX forecasting |
+| KNeighbors Regressor | Financial data regression |
+| Linear Regression | Trend modeling |
 
 ---
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_Ads-0866FF?style=flat-square&logo=meta&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+**AI & Automation:** AI Agents · RAG · Vector Embeddings · Prompt Engineering · LangGraph · n8n · REST APIs · Webhooks
+**Full Stack:** Next.js · TypeScript · React · Supabase · PostgreSQL · Redis · Stripe · Vercel · Fly.io · Docker
+**ML & Data:** Python · TensorFlow · Keras · Scikit-learn · Pandas · NumPy
+**Tools:** Git · GitHub · Cursor · WhatsApp Business API · Meta Graph API
 
 ---
 
@@ -71,6 +59,7 @@ My GitHub repos cover applied deep learning for financial forecasting:
 
 ## 💬 Let's Connect
 
-If you're a business looking to automate your sales pipeline with AI, or a developer interested in what I'm building — let's talk.
+Open to **AI Solutions Engineer**, **Applied AI Engineer**, and **Forward Deployed Engineer** roles.
 
-📩 **info@fluxionconsulting.io** · 🌐 **[fluxionconsulting.io](https://fluxionconsulting.io)**
+📩 **yaros.inter@gmail.com** · 🔗 **[LinkedIn](https://www.linkedin.com/in/yaros-interiano-a1286076)**
+
