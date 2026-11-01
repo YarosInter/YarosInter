@@ -61,5 +61,5 @@ Applied deep learning for financial forecasting — six open-source models with 
 
 Open to **AI Solutions Engineer**, **Applied AI Engineer**, and **Forward Deployed Engineer** roles.
 
-📩 **yaros.inter@gmail.com** · 🔗 **[LinkedIn](https://www.linkedin.com/in/yaros-interiano-a1286076)**
+🔗 **[LinkedIn](https://www.linkedin.com/in/yaros-interiano-a1286076)**
 
